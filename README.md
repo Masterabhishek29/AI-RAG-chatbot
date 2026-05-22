@@ -34,6 +34,6 @@ To run the app locally:
 7. Create or load a Chroma vectorstore.
 8. Chat with your documents: ask questions and get 🤖 AI answers.
 
-## Blog post <a name="blog_post"></a>
+
 
 
